@@ -24,26 +24,14 @@ STEP:7 compare the output with truth table. Logic Diagram :
 # Half Adder:
 
 ![image](https://github.com/Ocharan10/VLSI-LAB-EXP-1/assets/162343019/e981f445-7473-402a-9e65-440072219863)
-
-
-Full adder:
+# Full adder:
 ![image](https://github.com/Ocharan10/VLSI-LAB-EXP-1/assets/162343019/3d462e09-9ef1-4d3e-9e09-dea943b2be2f)
-
-
 # Half Subtractor:
-
 ![image](https://github.com/Ocharan10/VLSI-LAB-EXP-1/assets/162343019/a08561ad-54e7-48db-a7bc-39f602e84808)
-
-
 # Full Subtractor:
-
 ![image](https://github.com/Ocharan10/VLSI-LAB-EXP-1/assets/162343019/2e419a8b-cd3e-42e3-b3f7-43e396ccea27)
-
-
 # 8 Bit Ripple Carry Adder
-
 ![image](https://github.com/Ocharan10/VLSI-LAB-EXP-1/assets/162343019/555ca3fd-dfe0-4767-ac80-724254f0b065)
-
 
 # VERILOG CODE:
 LOGIC GATES: module logic(a,b,andgate,orgate,xorgate,nandgate,norgate,xnorgate,notgate );
